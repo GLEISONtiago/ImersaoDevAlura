@@ -18,5 +18,5 @@ Este projeto tem como objetivo criar uma plataforma web para pesquisar informaç
 **Instalação:**
 
 1. Clone este repositório:
-   bash
-   git clone https://github.com/GLEISONtiago/ImersaoDevAlura.git
+Bash
+git clone https://github.com/GLEISONtiago/ImersaoDevAlura.git
